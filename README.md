@@ -2,7 +2,7 @@
 Contains the design, code, setup and strategy for ROBOCON 2019 for IITD Team
 
 
-# Main sub projects
+# Main Sub Projects
 ABU ROBOCON 2020 demanded of two robots, a throwing robot mecannum drive and a 4 legger dog like robot
 
 # Mecannum Drive
